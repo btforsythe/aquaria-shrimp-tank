@@ -12,7 +12,6 @@ Use code "redditsforum" for 10% off shopping cart at [Planted Aquariums Central]
 
 APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=171
 
-<img src="http://www.aquaticplantcentral.com/forumapc/plantfinder/images/Araceae/parva2.jpg" />
 ![Cryptocoryne parva](http://www.aquaticplantcentral.com/forumapc/plantfinder/images/Araceae/parva2.jpg)
 
 ##### Sources
@@ -88,3 +87,9 @@ Many varieties, 30-50cm long leaves.
 ## References
 
 - [Tropica's plant reference](http://tropica.com/en/plants/)
+
+<style type="text/css">
+.container img {
+  max-height: 400px;
+}
+</style>
