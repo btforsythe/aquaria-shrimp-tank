@@ -38,7 +38,7 @@ APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=39
 
 APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=55
 
-<img src="http://www.extraplant.com/media/catalog/product/cache/7/image/5e06319eda06f020e43594a9c230972d/f/i/file_1.jpeg" style="height: 400px" />
+<img src="http://www.extraplant.com/media/catalog/product/cache/7/image/5e06319eda06f020e43594a9c230972d/f/i/file_1.jpeg" height="400px" />
 
 #### Sources
 
