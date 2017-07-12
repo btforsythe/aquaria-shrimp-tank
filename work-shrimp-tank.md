@@ -16,7 +16,45 @@ APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=171
 
 ##### Sources
 
+- AquariumPlants.com
+  - [clump (~ 10 plants, more than pot?)](http://www.aquariumplants.com/Cryptocoryne-Parva-p/cr91.htm): $5.49
+  - [pot](http://www.aquariumplants.com/Cryptocoryne-parva-p/po1121.htm) : $3.89
+- [Extraplant](http://www.extraplant.us/cryptocoryne-parva.html): $5.95 (pot)
 
+#### Cryptocoryne wendtii 'Green'
+
+Tropica: http://tropica.com/en/plants/plantdetails/Cryptocorynewendtii(109)/4562
+
+##### Sources
+
+- AquariumPlants.com
+  - [bare root (clump?)](http://www.aquariumplants.com/Cryptocoryne-wendtii-Green-Cryptocoryne-wendtii-p/cr07.htm): $5.49
+  - [pot](http://www.aquariumplants.com/Cryptocoryne-wendtii-Green-Pot-p/po60.htm): $3.79
+- [Extraplant](http://www.extraplant.us/cryptocoryne-wendtii-green.html): $2.89 (bare root)
+
+#### Cryptocoryne x willisii
+
+Tropica: http://tropica.com/en/plants/plantdetails/Cryptocorynexwillisii(107)/4559
+
+![Cryptocoryne x willisii](http://tropica.com/imagegen.ashx?width=760&height=380&image=/Plants/107/3.JPG&crop=resize&class=product)
+
+##### Sources
+
+- none found
+
+#### Cryptocoryne walkeri (lutea)
+
+#### Cryptocoryne beckettii 'Petchii'
+
+Like the red.
+
+Tropica: http://tropica.com/en/plants/plantdetails/Cryptocorynebeckettii'Petchii'(108A)/4560
+
+![Cryptocoryne beckettii 'Petchii'](http://tropica.com/imagegen.ashx?width=760&height=380&image=/Plants/108A/3.JPG&crop=resize&class=product)
+
+##### Sources
+
+- [AquariumPlants.com](http://www.aquariumplants.com/Cryptocoryne-Becketii-p/cr20.htm): $5.99 (bare root/clump)
 ### Stem
 
 #### Rotala rotundifolia
@@ -94,6 +132,8 @@ APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=145
 Easy peasy. Many varieties, 30-50cm long leaves.
 
 Tropica: http://tropica.com/en/plants/plantdetails/Vallisneriaspiralis'Tiger'(055A)/4503
+
+![Vallisernia spiralis](http://tropica.com/imagegen.ashx?width=760&height=380&image=/Plants/055A/3.JPG&crop=resize&class=product)
 
 ##### Sources
 
