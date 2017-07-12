@@ -1,3 +1,3 @@
 # aquaria-notes
 
-[work shrimp tank notes](./work-shrimp-tank.md)
+[work shrimp tank notes](./work-shrimp-tank)
