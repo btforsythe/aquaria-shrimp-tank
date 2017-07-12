@@ -12,9 +12,10 @@ Use code "redditsforum" for 10% off shopping cart at [Planted Aquariums Central]
 
 APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=171
 
-![Cryptocoryne parva](http://www.aquaticplantcentral.com/forumapc/plantfinder/images/Araceae/parva2.jpg){:height="100px"}
+![Cryptocoryne parva](http://www.aquaticplantcentral.com/forumapc/plantfinder/images/Araceae/parva2.jpg)
 
 ##### Sources
+
 
 ### Stem
 
@@ -40,13 +41,41 @@ APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=55
 
 <img src="http://www.extraplant.com/media/catalog/product/cache/7/image/5e06319eda06f020e43594a9c230972d/f/i/file_1.jpeg" height="400px" />
 
-#### Sources
+##### Sources
 
 - [Plants Aquariums Central](http://shop.plantedaquariumscentral.com/Bacopa-monnieri-Moneywort-easy-stem-plant_p_323.html): 5+ stems @ $3.19
 - [Buce Plant](https://buceplant.com/products/bacopa-monnieri): $3.99 (currently unavailable?)
 - [LiveAquaria.com](http://www.liveaquaria.com/product/prod_display.cfm?c=768+1632+809&pcatid=809): $5.99 (potted)
 - [Shop AquariumPlants on Etsy](https://www.etsy.com/listing/207675140/moneyworth-bacopa-monnieri-beginner): $4.99
 - [AquariumPlants.com](https://www.aquariumplants.com/Moneywort-Bacopa-Monnieri-p/bp31.htm): $3.09
+- [Extraplant](http://www.extraplant.us/bacopa-monnieri.html): $3.25
+
+#### Ludwigia repens
+
+*For Tanganyikan tank, too?*
+
+APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=26
+
+##### Sources
+
+- [Extraplant](http://www.extraplant.us/ludwigia-repens.html): $3.25
+- [AquariumPlants.com](http://www.aquariumplants.com/Ludwigia-Broad-Leaf-Ludwigia-repens-p/bp19.htm): $3.09
+- [Shop AquariumPlants on Etsy](https://www.etsy.com/listing/467401743/ludwigia-repens-beginner-live-aquarium): 4-5 stems @ $4.99
+
+#### Ludwigia palustris
+
+Smaller than *repens*. (Probably better for my purposes.)
+
+APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=121
+Tropica: http://tropica.com/en/plants/plantdetails/Ludwigiapalustris(035B)/4453
+
+![Ludwigia palustris](http://idtools.org/uploads/idtools/35/191/ludwigia_palustris_SLWpg.jpg)
+
+##### Sources
+
+- [Extraplant](http://www.extraplant.us/ludwigia-palustris.html): $2.19 (pot)
+- [Buce Plant](https://buceplant.com/products/ludwigia-plustris?variant=37563240461): $4.99 (bunch)
+- [AquariumPlants.com](http://www.aquariumplants.com/Ludwigia-Narrow-Leaf-Ludwigia-palustris-p/bp21.htm): $2.99
 
 ### Floating
 
@@ -62,13 +91,33 @@ APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=145
 
 #### Vallisernia spiralis
 
-Many varieties, 30-50cm long leaves.
+Easy peasy. Many varieties, 30-50cm long leaves.
+
+Tropica: http://tropica.com/en/plants/plantdetails/Vallisneriaspiralis'Tiger'(055A)/4503
 
 ##### Sources
 
 - Extraplant (prices per plant?)
 	- [Straight vallisneria](http://www.extraplant.us/vallisneria-spiralis.html): $3.25
 	- ["Leopard"](http://www.extraplant.us/vallisneria-spiralis-leopard.html): $2.15
+
+#### Taxiphyllum 'Spiky' (Flame moss?)
+
+"Best described as Christmas moss' big brother"
+
+Tropica: http://tropica.com/en/plants/plantdetails/Taxiphyllum'Spiky'(003GPOR)/4402
+
+##### Sources
+
+- [AquariumPlants.com](http://www.aquariumplants.com/Taxiphyllum-sp-Flame-Spiky-p/6786-6.htm): $11.99, on sale for $6.99 (tissue culture)
+
+#### Java Moss
+
+##### Sources
+
+- [Extraplant](http://www.extraplant.us/taxiphyllum-barbieri-br-em-vesicularia-dubyana-em.html): $7.55 (tub)
+- [Buce Plant](https://buceplant.com/products/java-moss-cup?variant=29214685453): $3.99 (golfball), $9.99 (4.5" cup)
+- [AquariumPlants.com](http://www.aquariumplants.com/Java-Moss-Vesicularia-Dubyana-4oz-Cup-p/port01.htm): $4.39 (4 oz cup)
 
 ## Plant vendors
 
@@ -82,7 +131,10 @@ Many varieties, 30-50cm long leaves.
 
 ## Fertilizers
 
-- Substrate Root Zone Tabs from aquariumfertilizer.com: http://www.aquariumfertilizer.com/index.asp?Option1=inven&EditU=9&Regit=15&ReturnOption1=cats&ReturnEdit=9&Returnitemname=&ReturnShowItemStart=
+- aquariumfertilizer.com
+  - [Substrate Root Zone Tabs](http://www.aquariumfertilizer.com/index.asp?Option1=inven&EditU=9&Regit=15&ReturnOption1=cats&ReturnEdit=9&Returnitemname=&ReturnShowItemStart=)
+- AquariumPlants.com
+  - [Seachem Flourish tabs 10 pack](http://www.aquariumplants.com/SeaChem-Flourish-Tabs-p/sc05050.htm): $7.99, $6.99 on sale
 
 ## References
 
