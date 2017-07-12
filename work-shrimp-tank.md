@@ -38,6 +38,8 @@ APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=39
 
 APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=55
 
+![Bacopa monnieri](http://www.extraplant.com/media/catalog/product/cache/7/image/5e06319eda06f020e43594a9c230972d/f/i/file_1.jpeg)
+
 #### Sources
 
 - [Plants Aquariums Central](http://shop.plantedaquariumscentral.com/Bacopa-monnieri-Moneywort-easy-stem-plant_p_323.html): 5+ stems @ $3.19
@@ -51,7 +53,7 @@ APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=55
 #### Azolla caroliniana (Mosquito Fern)
 
 APC: http://www.aquaticplantcentral.com/forumapc/plantfinder/details.php?id=145
-  
+
 ##### Sources
 
 - [Green Hill Gardens](http://greenhillgardens.com/products/azola-carolina-ana) $5.95/cup, but probably grown outdoors? (pests)
@@ -67,7 +69,7 @@ Many varieties, 30-50cm long leaves.
 - Extraplant (prices per plant?)
 	- [Straight vallisneria](http://www.extraplant.us/vallisneria-spiralis.html): $3.25
 	- ["Leopard"](http://www.extraplant.us/vallisneria-spiralis-leopard.html): $2.15
-	
+
 ## Plant vendors
 
 - [Buce Plant](https://buceplant.com)
