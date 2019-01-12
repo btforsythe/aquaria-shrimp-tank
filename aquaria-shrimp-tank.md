@@ -1,4 +1,4 @@
-# aquaria-work-shrimp-tank
+# aquaria-shrimp-tank
 
 ## Plant options
 
