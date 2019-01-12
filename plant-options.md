@@ -1,6 +1,4 @@
-# aquaria-shrimp-tank
-
-## Plant options
+# Plant options
 
 [plantedtank](https://www.reddit.com/r/PlantedTank) subreddit's special deals page: https://www.reddit.com/r/PlantedTank/comments/ztowh/rplantedtank_special_deals/
 
